@@ -20,7 +20,6 @@ The primary goal of this project is to:
 - Conversion of the video frames to grayscale for faster processing.
 - Application of a pre-trained Haar Cascade classifier to detect faces in real-time.
 - Display of bounding boxes around detected faces in the video stream.
-- Graceful exit upon pressing the 'q' key.
 
 
 ## Setup Instructions
